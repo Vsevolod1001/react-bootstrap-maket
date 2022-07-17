@@ -2,7 +2,7 @@
   "name": "react-boodstrap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vsevolod1001npm .github.io/react-bootstrap-maket",
+  "homepage": "https://Vsevolod1001npm.github.io/react-bootstrap-maket",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
