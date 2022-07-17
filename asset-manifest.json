@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap-maket/static/css/main.c49ef4fc.css",
+    "main.js": "/react-bootstrap-maket/static/js/main.7a7cb885.js",
+    "static/media/wood2.jpg": "/react-bootstrap-maket/static/media/wood2.aed1df3cd1da01a99ab3.jpg",
+    "static/media/wood1.jpg": "/react-bootstrap-maket/static/media/wood1.76607523316364eaa7a8.jpg",
+    "index.html": "/react-bootstrap-maket/index.html",
+    "main.c49ef4fc.css.map": "/react-bootstrap-maket/static/css/main.c49ef4fc.css.map",
+    "main.7a7cb885.js.map": "/react-bootstrap-maket/static/js/main.7a7cb885.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49ef4fc.css",
+    "static/js/main.7a7cb885.js"
+  ]
+}
